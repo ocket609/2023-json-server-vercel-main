@@ -46,6 +46,8 @@
       "id": 1,
       "userId": 1,
       "bookId": 1,
+      "bookName": "關於我轉生變成史萊姆這檔事 20",
+      "nick_name": "毛毛",
       "textContent": "跪求續集阿Orz",
       "score": 4.9,
       "like": 10
@@ -54,6 +56,8 @@
       "id": 2,
       "userId": 3,
       "bookId": 1,
+      "bookName": "關於我轉生變成史萊姆這檔事 20",
+      "nick_name": "我9宅",
       "textContent": "作者好會，賺我眼淚QQ",
       "score": 4.9,
       "like": 50
@@ -62,6 +66,8 @@
       "id": 3,
       "userId": 2,
       "bookId": 1,
+      "bookName": "關於我轉生變成史萊姆這檔事 20",
+      "nick_name": "巨石大大",
       "textContent": "不看你會後悔阿阿阿阿阿",
       "score": 4.9,
       "like": 20
@@ -70,6 +76,8 @@
       "id": 4,
       "userId": 4,
       "bookId": 2,
+      "bookName": "全知讀者視角 08",
+      "nick_name": "Maggie",
       "textContent": "好文分享，大家快來按讚！",
       "score": 4.9,
       "like": 80
@@ -78,6 +86,8 @@
       "id": 5,
       "userId": 4,
       "bookId": 5,
+      "bookName": "我的幸福婚約 06",
+      "nick_name": "Maggie",
       "textContent": "我又相信愛情了！",
       "score": 4.0,
       "like": 30
@@ -86,6 +96,8 @@
       "id": 6,
       "userId": 2,
       "bookId": 4,
+      "bookName": "有匪 4：挽山河",
+      "nick_name": "巨石大大",
       "textContent": "熱血沸騰，不錯不錯",
       "score": 3.9,
       "like": 20
@@ -94,6 +106,8 @@
       "id": 7,
       "userId": 1,
       "bookId": 11,
+      "bookName": "邪臨",
+      "nick_name": "毛毛",
       "textContent": "誰來陪我上廁所QQ",
       "score": 3.0,
       "like": 10
@@ -102,6 +116,8 @@
       "id": 8,
       "userId": 3,
       "bookId": 7,
+      "bookName": "地獄系列 第十五部: 地獄之後",
+      "nick_name": "我9宅",
       "textContent": "太好看了，欲罷不能~作者真的很會寫",
       "score": 4.8,
       "like": 85
@@ -110,6 +126,8 @@
       "id": 9,
       "userId": 4,
       "bookId": 6,
+      "bookName": "反派角色只有死亡結局 06",
+      "nick_name": "Maggie",
       "textContent": "題材滿新穎的，有同好看過其他類似的書可以推薦的嗎?",
       "score": 4.0,
       "like": 25
@@ -118,6 +136,8 @@
       "id": 10,
       "userId": 1,
       "bookId": 13,
+      "bookName": "關於我在無意間被隔壁的天使變成廢柴這件事 08",
+      "nick_name": "毛毛",
       "textContent": "越來越期待後面的發展~XD",
       "score": 4.2,
       "like": 50
